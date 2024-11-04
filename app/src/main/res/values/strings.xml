@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExZooRecApp</string>
+    <string name="animal_name">Nom de l\'animal</string>
+    <string name="animal_type">Type d\'animal</string>
+    <string name="animal_weight">Poids de l\'animal</string>
+    <string name="btn_add">Ajouter</string>
+    <string name="btn_update">Modifier</string>
+    <string name="btn_delete">Supprimer</string>
+    <string name="btn_clear">Vider champs</string>
+</resources>
